@@ -1,9 +1,9 @@
 {
-    "name": "cyrildewit/eloquent-viewable",
+    "name": "godkot/laravel-views",
     "description": "Simple package that allows you to associate views with Eloquent models",
     "type": "library",
     "license": "Apache-2.0",
-    "homepage": "https://github.com/cyrildewit/eloquent-viewable",
+    "homepage": "https://github.com/godkot/laravel-views",
     "keywords": [
         "cyrildewit",
         "laravel",
